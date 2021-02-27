@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Banana",
+    "calorie": "77 kcal",
+    "carbohydrate": "Carbohydrate: 23 gram",
+    "protein": "Protein: 1.1 gram",
+    "fat": "Fat: 0.3 gram",
+    "image": "https://raw.githubusercontent.com/LemonTimee/printfulTestData/master/banana.png"
+  },
+  {
+    "name": "Oat",
+    "calorie": "351 kcal",
+    "carbohydrate": "Carbohydrate: 57.3 gram",
+    "protein": "Protein: 11.3 gram",
+    "fat": "Fat: 5.8 gram",
+    "image": "https://raw.githubusercontent.com/LemonTimee/printfulTestData/master/oat.png"
+  },
+  {
+    "name": "Walnut",
+    "calorie": "654 kcal",
+    "carbohydrate": "Carbohydrate: 13.7 gram",
+    "protein": "Protein: 15.2 gram",
+    "fat": "Fat: 65.2 gram",
+    "image": "https://raw.githubusercontent.com/LemonTimee/printfulTestData/master/walnut.png"
+  },
+  {
+    "name": "Kidney Beans",
+    "calorie": "155 kcal",
+    "carbohydrate": "Carbohydrate: 22 gram",
+    "protein": "Protein: 19 gram",
+    "fat": "Fat: 6 gram",
+    "image": "https://raw.githubusercontent.com/LemonTimee/printfulTestData/master/kidney%20beans.png"
+  },
+  {
+    "name": "Potato",
+    "calorie": "77 kcal",
+    "carbohydrate": "Carbohydrate: 17 gram",
+    "protein": "Protein: 2 gram",
+    "fat": "Fat: 0.1 gram",
+    "image": "https://raw.githubusercontent.com/LemonTimee/printfulTestData/master/potato.png"
+  },
+  {
+    "name": "Chicken Breast",
+    "calorie": "120 kcal",
+    "carbohydrate": "Carbohydrate: 0 gram",
+    "protein": "Protein: 22.5 gram",
+    "fat": "Fat: 2.6 gram",
+    "image": "https://raw.githubusercontent.com/LemonTimee/printfulTestData/master/chiken%20breast.png"
+  },
+  {
+    "name": "Lentil",
+    "calorie": "116 kcal",
+    "carbohydrate": "Carbohydrate: 20 gram",
+    "protein": "Protein: 9 gram",
+    "fat": "Fat: 0.4 gram",
+    "image": "https://raw.githubusercontent.com/LemonTimee/printfulTestData/master/lentil.png"
+  },
+  {
+    "name": "Yoghurt",
+    "calorie": "57 kcal",
+    "carbohydrate": "Carbohydrate: 4.5 gram",
+    "protein": "Protein: 3 gram",
+    "fat": "Fat: 3 gram",
+    "image": "https://raw.githubusercontent.com/LemonTimee/printfulTestData/master/yoghurt.png"
+  },
+  {
+    "name": "Almond",
+    "calorie": "570 kcal",
+    "carbohydrate": "Carbohydrate: 3.7 gram",
+    "protein": "Protein: 18.7 gram",
+    "fat": "Fat: 54.1 gram",
+    "image": "https://raw.githubusercontent.com/LemonTimee/printfulTestData/master/almond.png"
+  },
+  {
+    "name": "Apple",
+    "calorie": "47 kcal",
+    "carbohydrate": "Carbohydrate: 12.4 gram",
+    "protein": "Protein: 0.2 gram",
+    "fat": "Fat: 0.1 gram",
+    "image": "https://raw.githubusercontent.com/LemonTimee/printfulTestData/master/apple.png"
+  }
+]
